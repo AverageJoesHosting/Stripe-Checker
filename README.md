@@ -2,8 +2,8 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![GitHub Issues](https://img.shields.io/github/issues/AverageJoessHostingLLC/stripe-checker.svg)
-![GitHub Stars](https://img.shields.io/github/stars/AverageJoessHostingLLC/stripe-checker.svg)
+![GitHub Issues](https://img.shields.io/github/issues/AverageJoesHosting/Stripe-Checker.svg)
+![GitHub Stars](https://img.shields.io/github/stars/AverageJoesHosting/Stripe-Checker.svg)
 
 ## Overview
 
@@ -36,11 +36,11 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AverageJoessHostingLLC/stripe-checker.git
+   git clone https://github.com/AverageJoesHosting/Stripe-Checker.git
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd stripe-checker
+   cd Stripe-Checker
    ```
 3. **Install Dependencies:**
    Ensure you have Python 3.8 or higher installed. Then, install the required packages:
@@ -179,7 +179,7 @@ python stripeChecker.py -m <mode> [OPTIONS]
 - **Data Discovery:**
   - Apply `brute-force` mode responsibly to identify and manage customer IDs within a specified range.
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions to improve the project:
 
@@ -188,8 +188,8 @@ We welcome contributions to improve the project:
 
 2. **Clone Your Fork:**
    ```bash
-   git clone https://github.com/YourUsername/stripe-checker.git
-   cd stripe-checker
+   git clone https://github.com/AverageJoesHosting/Stripe-Checker.git
+   cd Stripe-Checker
    ```
 
 3. **Create a New Branch:**
@@ -213,19 +213,19 @@ We welcome contributions to improve the project:
 7. **Create a Pull Request:**
    Go to the original repository and click "Compare & pull request" to submit your changes.
 
-## License
+## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Support
+## 📞 Support
 
 For questions or assistance, reach out to Average Joe's Hosting:
 
-- 🌐 **Website:** [AverageJoesHosting.com](https://averagejoeshosting.com)
+- 🌐 **Website:** [AverageJoesHosting.com](https://AverageJoesHosting.com)
 - 📧 **Email:** [helpme@averagejoeshosting.com](mailto:helpme@averagejoeshosting.com)
 - ☎️ **Phone:** (888) 563-1216
 
-## About Average Joe's Hosting
+## 👋 About Average Joe's Hosting
 
 Average Joe's Hosting specializes in delivering affordable, high-quality technology solutions to small businesses and organizations. Our mission is to make security and technology accessible to everyone.
 
@@ -237,5 +237,7 @@ Let’s work together to secure the web, one test at a time! 🌟
 - 🎥 **YouTube:** [Average Joe's Hosting on YouTube](https://www.youtube.com/channel/YourChannel)
 - 👥 **Facebook:** [Average Joe's Hosting on Facebook](https://www.facebook.com/AverageJoesHostingLLC)
 - 💼 **LinkedIn:** [Average Joe's Hosting on LinkedIn](https://www.linkedin.com/company/averagejoeshostingllc)
+
+🎉 Get started with Automation Booster and let your Discord server do the work for you!
 
 ---
